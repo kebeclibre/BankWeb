@@ -1,5 +1,5 @@
 <jsp:include page="includes/header.jsp"/>
-<div class="container">
+
 
 
 <div class="row">
@@ -20,5 +20,5 @@
 </div>
 
 
-</div>
+
 <jsp:include page="includes/footer.jsp"/>
